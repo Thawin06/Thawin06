@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student SE
 ----------
 
-สวัสดีครับผม นายธาวิน เมฆฉาย กำลังศึกษาอยู่คณะ วิศวกรรมซอฟต์เเวร์(SE) ชั้นปีที่1 มหาวิทยาลัยบูรพาครับ
+สวัสดีครับผม นายธาวิน เมฆฉาย กำลังศึกษาอยู่สาขา วิศวกรรมซอฟต์เเวร์(SE) ชั้นปีที่1 มหาวิทยาลัยบูรพาครับ
 
 * 🌍  I'm based in Chon Buri , Thailand
 * ✉️  You can contact me at [thawinmekchai@gmail.com](mailto:thawinmekchai@gmail.com)
